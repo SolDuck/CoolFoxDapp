@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xcfFb15F8574b5B501ff3dd60e9E731f02fa20181",
+  "SCAN_LINK": "https://polygonscan.com/token/0xcfFb15F8574b5B501ff3dd60e9E731f02fa20181",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "CoolFox NFTs",
+  "SYMBOL": "CFX",
+  "MAX_SUPPLY": 222,
+  "WEI_COST": 2000000000000000,
+  "DISPLAY_COST": 3.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/coolfox-nfts",
+  "SHOW_BACKGROUND": true
+}
